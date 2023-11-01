@@ -1,5 +1,6 @@
 # Shinyafurumata Profile Page
 
+url -> https://shinyafurumata.com
 icon -> https://lucide.dev/
 
 # Astro Starter Kit: Minimal
